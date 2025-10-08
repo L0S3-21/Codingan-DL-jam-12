@@ -28,7 +28,7 @@ public class Nomor3 { // untuk membuat class
                     harga = jumlah * 60000;
                     break;
             }
-        System.out.println("Harga yang harus dibayar = "+harga);
+        System.out.println("Harga yang harus dibayar = "+harga); // untuk mencetak tulisan beserta variabel
         }
     }
 }
